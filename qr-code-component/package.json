@@ -1,0 +1,14 @@
+{
+  "name": "qr-code-component-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./input.css -o ./output.css --watch"
+  },
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
